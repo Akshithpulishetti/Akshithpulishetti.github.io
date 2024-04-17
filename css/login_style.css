@@ -21,8 +21,30 @@ html{
     height:auto;
     color: rgb(245, 245, 245);
     margin-top:10% ;
-    
+    border-radius: 20px;
 
+}
+
+input {
+    border-radius: 10px;
+    border: 0px;
+}
+
+button {
+    padding: 10px;
+    background: #2d2d2d;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 14px;
+    font-weight: bold;
+    border-radius: 8px;
+    cursor: pointer;
+    margin: 6px 12px;
+    text-transform: capitalize;
+}
+
+button:hover {
+    background-color: #ccc;
 }
 
 
