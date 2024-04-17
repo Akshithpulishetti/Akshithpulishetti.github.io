@@ -1,19 +1,14 @@
-/* body{
-  background-image: url(https://wallpapers.com/images/hd/64k-ultra-hd-hacker-anonymous-v-glowing-b4l4tj9di301vfa8.jpg);
 
-}
-/* .dot{ height: 25px;
-   width: 25px;
-   background-color: #ffffff;
-   border-radius: 20%;
-   display: inline-block;
-   
-    */ 
-   * {
+   *{
     background-image: url(https://cottonable.com/wp-content/uploads/2021/09/images1947-6152b6f74eeb4.jpg);
+/*       height:100%;
+       width: 100%; 
+       margin: 0px;
+       padding: 0px;
+    */
 }
 
-/* background-image: url(https://more-selfesteem.com/wp-content/uploads/2021/01/natalie-grainger-8uB5kFKWWkk-unsplash-scaled.jpg); */
+
 
       img{       
         height:100%;
@@ -24,7 +19,7 @@
     }
     h1{
       color: rgb(0, 0, 0);
-      /* padding-top: 3%; */
+     
      
     }
     #id{
@@ -33,7 +28,7 @@
     p{
       color: rgb(255, 254, 254);
       font-size:30px;
-      /* background-color: rgb(203, 203, 203); */
+     
       text-align:right;
     }
     .log{
