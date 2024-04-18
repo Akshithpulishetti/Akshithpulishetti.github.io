@@ -7,7 +7,7 @@ h1{
 }
 
 
-html{
+*{
     background-image: url(https://c.wallhere.com/photos/4b/da/1500x1000_px_landscape_mountains_nature_river_sky-999573.jpg!d);
 }
 .content{
@@ -23,7 +23,7 @@ html{
 }
 
 input {
-    border-radius: 10px;
+    border-radius: 5px;
     border: 0px;
 }
 
